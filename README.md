@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pi-th0n
-- 👀 I’m interested in Python, JavaScript, math, and minecraft!
+- 👀 I’m interested in Python, Rust, math, and minecraft!
 - 🌱 I’m currently learning coding and math.
 - 📫 You can reach me on AoPS at aops.com/community/user/pith0n
 
